@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Anel
 
-<!--
-**HDN06/HDN06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CSE undergraduate and student builder who enjoys turning ideas into things people can actually use.
 
-Here are some ideas to get you started:
+### What I'm doing right now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Building projects and experimenting with new technologies
+* Exploring Web3, blockchain, and decentralized applications
+<!-- * Learning JavaScript, Rust, and Solana development -->
+* Participating in hackathons, builder programs, and tech communities
+
+### Current Focus
+
+**Web3 × Solana × Full-Stack Development**
+
+Currently going deeper into JavaScript, Rust, Solana, smart contracts, and building real-world projects.
+
+### Background
+
+I'm pursuing B.Tech in Computer Science and Engineering at SCMS School of Engineering & Technology.
+
+I enjoy learning through projects, hackathons, design, and hands-on experimentation. My approach is simple: learn by building, break things, figure them out, and keep improving.
