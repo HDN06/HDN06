@@ -1,4 +1,4 @@
-# Hi, I'm Anel
+# Hi, I'm Anel Eldho
 
 I'm a CSE undergraduate and student builder who enjoys turning ideas into things people can actually use.
 
@@ -11,9 +11,7 @@ I'm a CSE undergraduate and student builder who enjoys turning ideas into things
 
 ## Current Focus
 
-**Web3 × Solana × Full-Stack Development**
-
-Currently going deeper into JavaScript, Rust, Solana, smart contracts, and building real-world projects.
+Learning!
 
 ## Background
 
