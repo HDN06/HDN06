@@ -22,12 +22,15 @@ I enjoy learning through projects, hackathons, design, and hands-on experimentat
 
 ## Impact & Achievements
 
-- **ETHGlobal Mumbai 2026:** Participated in the global Ethereum hackathon.
-- **Devcon 8:** Volunteered at one of the Ethereum ecosystem's major conferences.
-- **IBW 2026:** Volunteered at India Blockchain Week in Mumbai.
-- **ETHMumbai 2026:** Secured a spot in the ENS prize pool.
 - **Stellar Build Station 2026:** Earned an Honourable Mention for *PactOS* and received a cash reward.
 - **IGNIZ 2026:** Won 2nd place with Neo-City, a personal portfolio website, and received a mechanical keyboard as a prize.
-- **THREADS'26:** Secured 4th prize with *WardrobeWizard* at a Fashion-Tech Hackathon.
+- **THREADS'26:** Secured 4th prize with WardrobeWizard at a Fashion-Tech Hackathon.
+- **ETHMumbai 2026:** Secured a spot in the ENS prize pool.
 - **Social Media Growth:** Grew FOVUE AI's X account from 0 to 500 followers in one month, with a post reaching 100K+ impressions.
-- **Community Contributions:** Contributed to Web3 ecosystem growth through ambassador roles with CoinDCX Maxis and Monad.
+
+## Community & Contributions
+
+- **Devcon 8:** Volunteered at a major Ethereum ecosystem conference.
+- **IBW 2026:** Volunteered at India Blockchain Week in Mumbai.
+- **ETHGlobal Mumbai 2026:** Participated in the global Ethereum hackathon in mumbai.
+- **Ambassador:** Contributed to ecosystem growth through CoinDCX Maxis and Monad ambassador programs.
