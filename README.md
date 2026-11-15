@@ -17,9 +17,6 @@ Learning, building, and improving
 
 I'm pursuing B.Tech in Computer Science and Engineering at SCMS School of Engineering & Technology.
 
-I enjoy learning through projects, hackathons, design, and hands-on experimentation. My approach is simple: learn by building, break things, figure them out, and keep improving.
-
-
 ## Impact & Achievements
 
 - **Stellar Build Station 2026:** Earned an Honourable Mention for *PactOS* and received a cash reward.
@@ -34,3 +31,6 @@ I enjoy learning through projects, hackathons, design, and hands-on experimentat
 - **IBW 2026:** Volunteered at India Blockchain Week in Mumbai.
 - **ETHGlobal Mumbai 2026:** Participated in the global Ethereum hackathon in mumbai.
 - **Ambassador:** Contributed to ecosystem growth through CoinDCX Maxis and Monad ambassador programs.
+
+I enjoy learning through projects, hackathons, design, and hands-on experimentation. My approach is simple: learn by building, break things, figure them out, and keep improving.
+
