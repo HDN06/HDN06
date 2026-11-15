@@ -6,8 +6,8 @@ I'm a CSE undergraduate and student builder who enjoys turning ideas into things
 
 * Building projects and experimenting with new technologies
 * Exploring Web3, blockchain, and decentralized applications
-<!-- * Learning JavaScript, Rust, and Solana development -->
 * Participating in hackathons, builder programs, and tech communities
+<!-- * Learning JavaScript, Rust, and Solana development -->
 
 ## Current Focus
 
