@@ -22,8 +22,9 @@ I enjoy learning through projects, hackathons, design, and hands-on experimentat
 
 ## Impact & Achievements
 
-- **Devcon 8:** Volunteered at one of the Ethereum ecosystem's major conferences.
 - **ETHGlobal Mumbai 2026:** Participated in the global Ethereum hackathon.
+- **Devcon 8:** Volunteered at one of the Ethereum ecosystem's major conferences.
+- **IBW 2026:** Volunteered at India Blockchain Week in Mumbai.
 - **ETHMumbai 2026:** Secured a spot in the ENS prize pool.
 - **Stellar Build Station 2026:** Earned an Honourable Mention for *PactOS* and received a cash reward.
 - **IGNIZ 2026:** Won 2nd place with Neo-City, a personal portfolio website, and received a mechanical keyboard as a prize.
