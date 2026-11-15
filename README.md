@@ -11,7 +11,7 @@ I'm a CSE undergraduate and student builder who enjoys turning ideas into things
 
 ## Current Focus
 
-Learning!
+Learning, building, and improving
 
 ## Background
 
