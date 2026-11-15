@@ -2,16 +2,11 @@
 
 I'm a CSE undergraduate and student builder who enjoys turning ideas into things people can actually use.
 
-## What I'm doing right now
+## Areas of Interest
 
-* Building projects and experimenting with new technologies
-* Exploring Web3, blockchain, and decentralized applications
-* Participating in hackathons, builder programs, and tech communities
-<!-- * Learning JavaScript, Rust, and Solana development -->
-
-## Current Focus
-
-Learning, building, and improving
+- Building projects and experimenting with new technologies.
+- Exploring Web3, blockchain, and decentralized applications.
+- Participating in hackathons, builder programs, and tech communities.
 
 ## Background
 
